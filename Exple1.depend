@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587518396 source:/home/giresse/Bureau/Coding Seule/Exple1/main.c
+	<stdio.h>
+	<stdlib.h>
+
